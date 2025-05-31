@@ -1,0 +1,25 @@
+.elementor-kit-6{--e-global-color-primary:#5A1BA9;--e-global-color-secondary:#333D47;--e-global-color-text:#333D47;--e-global-color-accent:#0490DC;--e-global-color-d947ae6:#FFFFFF;--e-global-color-41f33e2:#F9F9FB;--e-global-color-35983d5:#EEF1F6;--e-global-color-d488854:#D7BFF2;--e-global-color-697d8ed:#5A1BA9;--e-global-color-b11b5a5:#EAE9F1;--e-global-color-6afeba7:#300B60;--e-global-color-c427ccf:#5A1BA9;--e-global-typography-primary-font-family:"BentonSans";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"BentonSans";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"BentonSans";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"BentonSans";--e-global-typography-accent-font-weight:500;color:var( --e-global-color-text );font-family:"BentonSans", Arial, Helvetica, sans-serif;}.elementor-kit-6 e-page-transition{background-color:#FFBC7D;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1500px;}.e-con{--container-max-width:1500px;--container-default-padding-top:0px;--container-default-padding-right:0px;--container-default-padding-bottom:0px;--container-default-padding-left:0px;}.elementor-widget:not(:last-child){margin-block-end:30px;}.elementor-element{--widgets-spacing:30px 30px;--widgets-spacing-row:30px;--widgets-spacing-column:30px;}{}h1.entry-title{display:var(--page-title-display);}.site-header .site-branding{flex-direction:column;align-items:stretch;}.site-header{padding-inline-end:0px;padding-inline-start:0px;}.site-footer .site-branding{flex-direction:column;align-items:stretch;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'BentonSans';
+	font-style: normal;
+	font-weight: 300;
+	font-display: swap;
+	src: url("bentonsans-book-4e191d7217a753da16ff44f89fdbf2b73d01cd150e824c152ba08a61e8db07ec.woff2") format('woff2'),
+		url("bentonsans-book-048416fe9c54f2f3523a23f30c6bedd1a961aa6e0c9ad169b7fd429811bf9dce.woff") format('woff');
+}
+@font-face {
+	font-family: 'BentonSans';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url("bentonsans-medium-707aee2a59a7364edde03afc7a5c1dab53cda95864b5a283795369fcf2c30787-1.woff2") format('woff2'),
+		url("bentonsans-medium-5cd12715add2d4b76e8eac14da142662e5204b7b60ecbb6ffa78a1ca24546019-1.woff") format('woff');
+}
+@font-face {
+	font-family: 'BentonSans';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url("bentonsans-regular.woff2") format('woff2'),
+		url("bentonsans-regular.woff") format('woff');
+}
+/* End Custom Fonts CSS */
