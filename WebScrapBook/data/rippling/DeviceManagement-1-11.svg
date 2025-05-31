@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48" fill="none">
+<g id="DeviceManagement">
+<g id="Vector">
+<path d="M6 8.24972C6 7.0085 7.00862 6 8.25 6H39.75C40.9914 6 42 7.0085 42 8.24972V27H6V8.24972Z" fill="#502D3C"/>
+<path d="M0 39H48C48 40.6589 46.5683 42 44.7972 42H3.20276C1.43172 42 0 40.6589 0 39Z" fill="#502D3C"/>
+<path d="M6 27H42L48 39H0L6 27Z" fill="#825568"/>
+<path d="M41.25 33H6.75L9 27H39L41.25 33Z" fill="#502D3C"/>
+<path d="M9 9H39V27H9V9Z" fill="#FDB71C"/>
+</g>
+</g>
+</svg>
